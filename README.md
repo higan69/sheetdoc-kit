@@ -205,3 +205,10 @@ blocks: [
 - `examples/groove.html` — ライブハウス「groove」（浦添）のBASEショップ改修サンプル。現行ページの構成（News／SCHEDULE／駐車場のお知らせ／booking／フリーペーパー「ちかちゃん」）をブロックに置き換え、実データ（住所・電話・メール・Instagram）を反映。Xは埋め込みを廃止しリンクのみ。SCHEDULEには現行Googleカレンダーから収集した2026年11〜12月の実データ43件を表示（店休日は除外）
 - `examples/groove_events_2026.csv` — 上記スケジュールのCSV（そのままスプレッドシートにインポート可能）
 - `examples/groove_base.html` — groove版のBASE組み込み用フラグメント。全CSSセレクタを `#sheetdoc-groove` の内側に限定（スコープ化）し、BASEテーマと干渉しない形にしたもの。中身をまるごとHTML編集に貼って使う
+
+- ## ダウンロード
+
+キット一式はこちらからダウンロードできます。
+
+[sheetdoc-kit-v1.zip をダウンロード](sheetdoc-kit-v1.zip)
+
